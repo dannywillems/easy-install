@@ -1,0 +1,26 @@
+# Install wget and curl
+Install "dannywillems/easy-install-yml", {"file": "wget.yml"}
+Install "dannywillems/easy-install-yml", {"file": "curl.yml"}
+
+# Install git
+Install "dannywillems/easy-install-yml", {"file": "git.yml"}
+
+# Install make
+Install "dannywillems/easy-install-yml", {"file": "make.yml"}
+
+# Install oh-my-zsh
+Install "dannywillems/easy-install-yml", {"file": "oh-my-zsh.yml"}
+
+# Install nylas_n1
+Install "dannywillems/easy-install-yml", {"file": "nylas_n1.yml"}
+
+# Install vim
+Install "dannywillems/easy-install-yml", {"file": "vim.yml"}
+
+# Install nvm
+Install "dannywillems/easy-install-yml", {"file": "nvm.yml"}
+
+# Install pyenv
+Install "dannywillems/easy-install-yml", {"file": "pyenv.yml"}
+
+
