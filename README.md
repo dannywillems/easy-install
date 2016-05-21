@@ -1,6 +1,6 @@
 # Manage and install your softwares easily!
 
-[![Build Status](https://travis-ci.org/dannywillems/easy-install.svg?branch=master)](https://travis-ci.org/dannywillems/easy-install)
+[![Build Status](https://travis-ci.org/dannywillems/easy-install.svg?branch=master)](https://travis-ci.org/dannywillems/easy-install) [![Build status](https://ci.appveyor.com/api/projects/status/5hrnbc115l8fi0b8/branch/master?svg=true)](https://ci.appveyor.com/project/dannywillems/easy-install/branch/master)
 
 Install softwares on multiple computers, environments or operating systems takes
 lots of time and it's very boring.
@@ -118,7 +118,7 @@ install:
   - make install
 
 depends:
-  # You software has make as dependencies and you want to install it without
+  # Your software has make as dependencies and you want to install it without
   using another yaml file.
   - debian:
     - sudo apt-get install -y make
