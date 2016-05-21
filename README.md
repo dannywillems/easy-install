@@ -8,6 +8,9 @@ lots of time and it's very boring.
 This repository contains a script which allows you to install all softwares you
 need by writing only a single file, independently of your operating system.
 
+See [here](https://github.com/dannywillems/easy-install-yml) for a list of YAML
+files to use.
+
 ![simple easy-install.rc file](res/easy-install.rc.example.png)
 
 ## Installation
