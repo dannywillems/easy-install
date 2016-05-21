@@ -1,0 +1,4 @@
+description: a simple hello world with no dependency and no specific platform command
+
+install:
+  - echo "Hello world"
