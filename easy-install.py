@@ -32,7 +32,7 @@ def convert_plaform(p):
 # Constantes
 GITHUB_RAW = "https://raw.githubusercontent.com"
 DEFAULT_EASY_FILE_IN_REPO = ".easy-install.yml"
-DEFAULT_EASY_FILE_CONFIG = os.getenv("HOME") + "/.easy-install.rc"
+DEFAULT_EASY_FILE_CONFIG = os.path.expanduser("~") + "/.easy-install.rc"
 DEFAULT_BRANCH = "master"
 INSTALL_CMD = "Install"
 
